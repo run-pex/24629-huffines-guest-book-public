@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="500" viewBox="0 0 520 500" role="img" aria-labelledby="title"><title id="title">Task navigation — FreeCAD wireframe</title><rect width="100%" height="100%" fill="#ffffff"/>
+<g stroke="#b1bfb5" stroke-width="1.3" fill="none">
+<path d="M28,128 L492,128"/>
+<path d="M492,128 L492,198"/>
+<path d="M492,198 L28,198"/>
+<path d="M28,198 L28,128"/>
+<path d="M28,210 L492,210"/>
+<path d="M492,210 L492,280"/>
+<path d="M492,280 L28,280"/>
+<path d="M28,280 L28,210"/>
+<path d="M28,292 L492,292"/>
+<path d="M492,292 L492,362"/>
+<path d="M492,362 L28,362"/>
+<path d="M28,362 L28,292"/>
+</g><g font-family="Arial, sans-serif">
+<text x="28" y="38" font-size="23" fill="#203b32">Task navigation</text>
+<text x="28" y="63" font-size="13" fill="#203b32">Component study / illustrative content only</text>
+<text x="28" y="107" font-size="21" fill="#203b32">What do you need? </text>
+<text x="44" y="155" font-size="18" fill="#203b32">Get connected</text>
+<text x="44" y="179" font-size="14" fill="#203b32">Wi-Fi &amp; connection</text>
+<text x="462" y="166" font-size="20" fill="#203b32">&gt;</text>
+<text x="44" y="237" font-size="18" fill="#203b32">Use an amenity</text>
+<text x="44" y="261" font-size="14" fill="#203b32">Hot tub, pond &amp; yard</text>
+<text x="462" y="248" font-size="20" fill="#203b32">&gt;</text>
+<text x="44" y="319" font-size="18" fill="#203b32">Before you leave</text>
+<text x="44" y="343" font-size="14" fill="#203b32">Checkout</text>
+<text x="462" y="330" font-size="20" fill="#203b32">&gt;</text>
+<text x="28" y="486" font-size="12" fill="#203b32">UX study only / not operational guest instructions</text>
+</g></svg>

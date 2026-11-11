@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="500" viewBox="0 0 520 500" role="img" aria-labelledby="title"><title id="title">Photo with location guidance — FreeCAD wireframe</title><rect width="100%" height="100%" fill="#ffffff"/>
+<g stroke="#b1bfb5" stroke-width="1.3" fill="none">
+<path d="M28,92 L492,92"/>
+<path d="M492,92 L492,270"/>
+<path d="M492,270 L28,270"/>
+<path d="M28,270 L28,92"/>
+<path d="M28,92 L492,270"/>
+<path d="M492,92 L28,270"/>
+<path d="M51,115 L79,115"/>
+<path d="M79,115 L79,143"/>
+<path d="M79,143 L51,143"/>
+<path d="M51,143 L51,115"/>
+<path d="M428,220 L456,220"/>
+<path d="M456,220 L456,248"/>
+<path d="M456,248 L428,248"/>
+<path d="M428,248 L428,220"/>
+</g><g font-family="Arial, sans-serif">
+<text x="28" y="38" font-size="23" fill="#203b32">Photo with location guidance</text>
+<text x="28" y="63" font-size="13" fill="#203b32">Component study / illustrative content only</text>
+<text x="122" y="172" font-size="19" fill="#203b32">Owner photo goes here</text>
+<text x="98" y="198" font-size="13" fill="#203b32">Sketch placeholder, not property geometry</text>
+<text x="59" y="135" font-size="16" fill="#203b32">1</text>
+<text x="436" y="240" font-size="16" fill="#203b32">2</text>
+<text x="28" y="310" font-size="18" fill="#203b32">1   Identify the relevant location</text>
+<text x="28" y="339" font-size="15" fill="#203b32">     Owner-approved written guidance.</text>
+<text x="28" y="379" font-size="18" fill="#203b32">2   Confirm the next landmark or control</text>
+<text x="28" y="408" font-size="14" fill="#203b32">     Full instructions also work without the image.</text>
+<text x="28" y="486" font-size="12" fill="#203b32">UX study only / not operational guest instructions</text>
+</g></svg>

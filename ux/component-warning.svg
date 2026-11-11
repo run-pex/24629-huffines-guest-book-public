@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="500" viewBox="0 0 520 500" role="img" aria-labelledby="title"><title id="title">Safety notice — FreeCAD wireframe</title><rect width="100%" height="100%" fill="#ffffff"/>
+<g stroke="#b1bfb5" stroke-width="1.3" fill="none">
+<path d="M28,102 L492,102"/>
+<path d="M492,102 L492,310"/>
+<path d="M492,310 L28,310"/>
+<path d="M28,310 L28,102"/>
+<path d="M42,118 L98,118"/>
+<path d="M98,118 L98,144"/>
+<path d="M98,144 L42,144"/>
+<path d="M42,144 L42,118"/>
+</g><g font-family="Arial, sans-serif">
+<text x="28" y="38" font-size="23" fill="#203b32">Safety notice</text>
+<text x="28" y="63" font-size="13" fill="#203b32">Component study / illustrative content only</text>
+<text x="49" y="137" font-size="12" fill="#203b32">Caution</text>
+<text x="44" y="181" font-size="23" fill="#203b32">Pond: no swimming</text>
+<text x="44" y="219" font-size="17" fill="#203b32">Supervise children around the pond.</text>
+<text x="44" y="250" font-size="15" fill="#203b32">The fence does not block every approach.</text>
+<text x="44" y="285" font-size="13" fill="#203b32">Archived example; confirm current conditions.</text>
+<text x="28" y="359" font-size="17" fill="#203b32">Visible before amenity instructions.</text>
+<text x="28" y="391" font-size="16" fill="#203b32">Never hide this inside an accordion.</text>
+<text x="28" y="486" font-size="12" fill="#203b32">UX study only / not operational guest instructions</text>
+</g></svg>

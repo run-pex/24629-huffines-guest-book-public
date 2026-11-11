@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="500" viewBox="0 0 520 500" role="img" aria-labelledby="title"><title id="title">Availability and missing information — FreeCAD wireframe</title><rect width="100%" height="100%" fill="#ffffff"/>
+<g stroke="#b1bfb5" stroke-width="1.3" fill="none">
+<path d="M28,96 L492,96"/>
+<path d="M492,96 L492,190"/>
+<path d="M492,190 L28,190"/>
+<path d="M28,190 L28,96"/>
+<path d="M28,204 L492,204"/>
+<path d="M492,204 L492,298"/>
+<path d="M492,298 L28,298"/>
+<path d="M28,298 L28,204"/>
+<path d="M28,312 L492,312"/>
+<path d="M492,312 L492,406"/>
+<path d="M492,406 L28,406"/>
+<path d="M28,406 L28,312"/>
+</g><g font-family="Arial, sans-serif">
+<text x="28" y="38" font-size="23" fill="#203b32">Availability and missing information</text>
+<text x="28" y="63" font-size="13" fill="#203b32">Component study / illustrative content only</text>
+<text x="42" y="123" font-size="19" fill="#203b32">Pool</text>
+<text x="42" y="149" font-size="16" fill="#203b32">Not confirmed</text>
+<text x="42" y="173" font-size="14" fill="#203b32">Do not promise access.</text>
+<text x="42" y="231" font-size="19" fill="#203b32">Local attraction</text>
+<text x="42" y="257" font-size="16" fill="#203b32">Check before going</text>
+<text x="42" y="281" font-size="14" fill="#203b32">Use official alerts for current status.</text>
+<text x="42" y="339" font-size="19" fill="#203b32">Local list</text>
+<text x="42" y="365" font-size="16" fill="#203b32">No verified places yet</text>
+<text x="42" y="389" font-size="14" fill="#203b32">Recommendations are being checked.</text>
+<text x="28" y="486" font-size="12" fill="#203b32">UX study only / not operational guest instructions</text>
+</g></svg>

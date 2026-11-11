@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="760" viewBox="0 0 390 760" role="img" aria-labelledby="title"><title id="title">Phone navigation / Wi-Fi detail example — FreeCAD wireframe</title><rect width="100%" height="100%" fill="#ffffff"/>
+<g stroke="#b1bfb5" stroke-width="1.3" fill="none">
+<path d="M8,8 L382,8"/>
+<path d="M382,8 L382,752"/>
+<path d="M382,752 L8,752"/>
+<path d="M8,752 L8,8"/>
+<path d="M8,66 L382,66"/>
+<path d="M26,171 L364,171"/>
+<path d="M364,171 L364,294"/>
+<path d="M364,294 L26,294"/>
+<path d="M26,294 L26,171"/>
+<path d="M26,315 L364,315"/>
+<path d="M364,315 L364,377"/>
+<path d="M364,377 L26,377"/>
+<path d="M26,377 L26,315"/>
+<path d="M26,393 L364,393"/>
+<path d="M364,393 L364,442"/>
+<path d="M364,442 L26,442"/>
+<path d="M26,442 L26,393"/>
+<path d="M8,689 L382,689"/>
+<path d="M115.5,739 L181.5,739"/>
+</g><g font-family="Arial, sans-serif">
+<text x="26" y="43" font-size="18" fill="#203b32">Sunset Cottage</text>
+<text x="300" y="43" font-size="16" fill="#203b32">Help</text>
+<text x="26" y="99" font-size="15" fill="#203b32">&lt; Back</text>
+<text x="110" y="99" font-size="14" fill="#203b32">Your stay / Wi-Fi</text>
+<text x="26" y="142" font-size="25" fill="#203b32">Wi-Fi &amp; connection</text>
+<text x="40" y="202" font-size="20" fill="#203b32">Private connection details</text>
+<text x="40" y="232" font-size="17" fill="#203b32">Use your booking messages.</text>
+<text x="40" y="265" font-size="13" fill="#203b32">Credentials stay outside the public guide.</text>
+<text x="40" y="351" font-size="18" fill="#203b32">Connection troubleshooting</text>
+<text x="40" y="424" font-size="17" fill="#203b32">Back to Your stay</text>
+<text x="26" y="503" font-size="16" fill="#203b32">Selected section: Your stay</text>
+<text x="26" y="537" font-size="15" fill="#203b32">Same four destinations on every page.</text>
+<text x="26" y="571" font-size="14" fill="#203b32">Back returns to the previous visited page.</text>
+<text x="26" y="602" font-size="13" fill="#203b32">No history? Back opens the named parent.</text>
+<text x="17.0" y="727" font-size="14" fill="#203b32">Arrival</text>
+<text x="110.5" y="727" font-size="14" fill="#203b32">Your stay</text>
+<text x="204.0" y="727" font-size="14" fill="#203b32">Explore</text>
+<text x="297.5" y="727" font-size="14" fill="#203b32">Help</text>
+</g></svg>

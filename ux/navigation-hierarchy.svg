@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="720" viewBox="0 0 1160 720" role="img" aria-labelledby="title"><title id="title">Navigation hierarchy / four main destinations — FreeCAD wireframe</title><rect width="100%" height="100%" fill="#ffffff"/>
+<g stroke="#b1bfb5" stroke-width="1.3" fill="none">
+<path d="M24,119 L282,119"/>
+<path d="M282,119 L282,181"/>
+<path d="M282,181 L24,181"/>
+<path d="M24,181 L24,119"/>
+<path d="M309,119 L567,119"/>
+<path d="M567,119 L567,181"/>
+<path d="M567,181 L309,181"/>
+<path d="M309,181 L309,119"/>
+<path d="M319,225 L319,272"/>
+<path d="M319,272 L337,272"/>
+<path d="M337,247 L567,247"/>
+<path d="M567,247 L567,297"/>
+<path d="M567,297 L337,297"/>
+<path d="M337,297 L337,247"/>
+<path d="M319,225 L319,342"/>
+<path d="M319,342 L337,342"/>
+<path d="M337,317 L567,317"/>
+<path d="M567,317 L567,367"/>
+<path d="M567,367 L337,367"/>
+<path d="M337,367 L337,317"/>
+<path d="M319,225 L319,412"/>
+<path d="M319,412 L337,412"/>
+<path d="M337,387 L567,387"/>
+<path d="M567,387 L567,437"/>
+<path d="M567,437 L337,437"/>
+<path d="M337,437 L337,387"/>
+<path d="M319,225 L319,482"/>
+<path d="M319,482 L337,482"/>
+<path d="M337,457 L567,457"/>
+<path d="M567,457 L567,507"/>
+<path d="M567,507 L337,507"/>
+<path d="M337,507 L337,457"/>
+<path d="M594,119 L852,119"/>
+<path d="M852,119 L852,181"/>
+<path d="M852,181 L594,181"/>
+<path d="M594,181 L594,119"/>
+<path d="M604,225 L604,272"/>
+<path d="M604,272 L622,272"/>
+<path d="M622,247 L852,247"/>
+<path d="M852,247 L852,297"/>
+<path d="M852,297 L622,297"/>
+<path d="M622,297 L622,247"/>
+<path d="M879,119 L1137,119"/>
+<path d="M1137,119 L1137,181"/>
+<path d="M1137,181 L879,181"/>
+<path d="M879,181 L879,119"/>
+<path d="M24,550 L1136,550"/>
+</g><g font-family="Arial, sans-serif">
+<text x="24" y="40" font-size="28" fill="#203b32">Four peer sections; nine content pages</text>
+<text x="24" y="75" font-size="18" fill="#203b32">Phone: persistent bottom bar. Desktop: the same four links in the header.</text>
+<text x="40" y="156" font-size="24" fill="#203b32">Arrival</text>
+<text x="28" y="212" font-size="17" fill="#203b32">Arrival &amp; parking</text>
+<text x="325" y="156" font-size="24" fill="#203b32">Your stay</text>
+<text x="313" y="212" font-size="17" fill="#203b32">Your stay</text>
+<text x="347" y="278" font-size="16" fill="#203b32">Wi-Fi &amp; connection</text>
+<text x="347" y="348" font-size="16" fill="#203b32">Hot tub, pond &amp; yard</text>
+<text x="347" y="418" font-size="16" fill="#203b32">House rules &amp; dogs</text>
+<text x="347" y="488" font-size="16" fill="#203b32">Checkout</text>
+<text x="610" y="156" font-size="24" fill="#203b32">Explore</text>
+<text x="598" y="212" font-size="17" fill="#203b32">Explore nearby</text>
+<text x="632" y="278" font-size="16" fill="#203b32">Local place detail</text>
+<text x="895" y="156" font-size="24" fill="#203b32">Help</text>
+<text x="883" y="212" font-size="17" fill="#203b32">Help &amp; safety</text>
+<text x="24" y="590" font-size="20" fill="#203b32">Your stay is the landing section, not a parent of the other tabs.</text>
+<text x="24" y="636" font-size="18" fill="#203b32">Only detail pages have parents. Checkout belongs to Your stay.</text>
+<text x="24" y="682" font-size="16" fill="#203b32">Both Help controls preserve a return path. Arrival, Your stay and Explore start new journeys.</text>
+</g></svg>

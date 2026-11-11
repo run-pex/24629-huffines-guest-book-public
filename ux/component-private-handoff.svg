@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="500" viewBox="0 0 520 500" role="img" aria-labelledby="title"><title id="title">Private information handoff — FreeCAD wireframe</title><rect width="100%" height="100%" fill="#ffffff"/>
+<g stroke="#b1bfb5" stroke-width="1.3" fill="none">
+<path d="M28,100 L492,100"/>
+<path d="M492,100 L492,330"/>
+<path d="M492,330 L28,330"/>
+<path d="M28,330 L28,100"/>
+<path d="M28,245 L492,245"/>
+</g><g font-family="Arial, sans-serif">
+<text x="28" y="38" font-size="23" fill="#203b32">Private information handoff</text>
+<text x="28" y="63" font-size="13" fill="#203b32">Component study / illustrative content only</text>
+<text x="44" y="139" font-size="22" fill="#203b32">Your arrival details are private</text>
+<text x="44" y="184" font-size="17" fill="#203b32">Find them in your booking messages.</text>
+<text x="44" y="219" font-size="15" fill="#203b32">Entry codes are never shown on this page.</text>
+<text x="44" y="280" font-size="15" fill="#203b32">Missing the message? Ask your host there.</text>
+<text x="28" y="386" font-size="16" fill="#203b32">Approved channel exists: link to it.</text>
+<text x="28" y="422" font-size="15" fill="#203b32">No channel supplied: show plain guidance.</text>
+<text x="28" y="486" font-size="12" fill="#203b32">UX study only / not operational guest instructions</text>
+</g></svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="500" viewBox="0 0 520 500" role="img" aria-labelledby="title"><title id="title">Visit planning facts — FreeCAD wireframe</title><rect width="100%" height="100%" fill="#ffffff"/>
+<g stroke="#b1bfb5" stroke-width="1.3" fill="none">
+<path d="M28,184 L492,184"/>
+<path d="M28,240 L492,240"/>
+<path d="M28,296 L492,296"/>
+<path d="M28,352 L492,352"/>
+<path d="M28,388 L242,388"/>
+<path d="M242,388 L242,432"/>
+<path d="M242,432 L28,432"/>
+<path d="M28,432 L28,388"/>
+</g><g font-family="Arial, sans-serif">
+<text x="28" y="38" font-size="23" fill="#203b32">Visit planning facts</text>
+<text x="28" y="63" font-size="13" fill="#203b32">Component study / illustrative content only</text>
+<text x="28" y="108" font-size="22" fill="#203b32">Plan your visit</text>
+<text x="28" y="149" font-size="13" fill="#203b32">Access</text>
+<text x="28" y="173" font-size="17" fill="#203b32">Verified suitability summary</text>
+<text x="28" y="205" font-size="13" fill="#203b32">Dogs</text>
+<text x="28" y="229" font-size="17" fill="#203b32">Verified policy, or check first</text>
+<text x="28" y="261" font-size="13" fill="#203b32">Opening hours</text>
+<text x="28" y="285" font-size="17" fill="#203b32">Check official hours</text>
+<text x="28" y="317" font-size="13" fill="#203b32">Closures</text>
+<text x="28" y="341" font-size="17" fill="#203b32">Read official alerts</text>
+<text x="40" y="416" font-size="14" fill="#203b32">Open verified map link</text>
+<text x="28" y="486" font-size="12" fill="#203b32">UX study only / not operational guest instructions</text>
+</g></svg>
