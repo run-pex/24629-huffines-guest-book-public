@@ -1,9 +1,7 @@
-:HL["/_next/static/chunks/0my8sky1h5gfo.css","style"]
-:HL["/_next/static/chunks/3wa4l88s_h253.css","style"]
-:HL["/_next/static/chunks/0qa6v5r4y_n6h.css","style"]
+:HL["/_next/static/chunks/3obm57fwkm5c_.css","style"]
 :HL["/_next/static/media/commissioner_latin_wght_normal-s.p.41_po9fy1-l7n.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/25z09ngs2dbcu.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"catalog","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"ux-review","h":96,"c":"$Q2"}]]
-0:{"b":"3GKjNRrbp54ocUF1pminT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"V1E7e1aFkL80lmy19Dj6V","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
